@@ -1,0 +1,985 @@
+datetime,temp,dew,humidity,precip,windspeed,winddir,cloudcover,visibility,solarradiation,solarenergy,uvindex,conditions,icon
+2023-01-01T00:00:00,20,16,77.8,0,7.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T01:00:00,20.7,16.2,75.8,0,11.4,326,96.6,16.6,0,,0,Overcast,cloudy
+2023-01-01T02:00:00,20,16,77.8,0,3.6,300,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T03:00:00,20,16,77.8,0,1.8,270,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T04:00:00,20.2,16.4,78.55,0,0,270,96.6,16.6,0,,0,Overcast,cloudy
+2023-01-01T05:00:00,20,16,77.8,0,3.6,270,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T06:00:00,20,16,77.8,0,3.6,300,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T07:00:00,20.1,16.6,80.32,0,0,250,96.6,9.5,4,0,0,Overcast,cloudy
+2023-01-01T08:00:00,21,17,77.96,0,3.6,290,89.4,8,20,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-01T09:00:00,21,16,73.17,0,3.6,290,89.4,8,47,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-01T10:00:00,21.7,16.9,73.97,0,3.6,290,96.6,9.4,66,0.2,1,Overcast,cloudy
+2023-01-01T11:00:00,22,16,68.84,0,7.6,320,89.4,10,67,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-01T12:00:00,22,17,73.33,0,11.2,340,89.4,10,82,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-01T13:00:00,22,16.7,72.04,0.008,6.7,317,96.6,10,97,0.3,1,"Rain, Overcast",rain
+2023-01-01T14:00:00,22,17,73.35,0,9.4,320,89.4,10,60,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-01T15:00:00,22,16,68.84,0,11.2,320,50.1,10,49,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-01T16:00:00,21.4,16.4,73.24,0,6.3,340,96.6,10,25,0.1,0,Overcast,cloudy
+2023-01-01T17:00:00,21,16,73.19,0,9.4,350,89.4,10,11,0,0,Partially cloudy,partly-cloudy-day
+2023-01-01T18:00:00,21,16,73.17,0,5.4,330,89.4,10,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-01T19:00:00,20.9,16.1,74.15,0,2.2,339,96.6,10,0,,0,Overcast,cloudy
+2023-01-01T20:00:00,20,16,77.81,0,5.4,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T21:00:00,20,16,77.81,0,3.6,300,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-01T22:00:00,20.1,16.4,79.25,0,0.5,280,96.6,10,0,,0,Overcast,cloudy
+2023-01-01T23:00:00,20,16,77.83,0,1.8,280,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T00:00:00,19,17,88.2,0,1.8,330,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T01:00:00,19.6,17.1,85.53,0.013,0.5,320,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-02T02:00:00,20,17,82.91,0,3.6,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T03:00:00,19,16,82.79,0,5.4,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T04:00:00,19.7,17.2,85.53,0,0,359,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T05:00:00,20,17,82.91,0,3.6,170,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T06:00:00,20,17,82.91,0,3.6,210,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T07:00:00,19.4,17.2,87.06,0.1,0,290,96.6,10,4,0,0,"Rain, Overcast",rain
+2023-01-02T08:00:00,20,18,88.29,0,0.1,359,89.4,10,39,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-02T09:00:00,22,17,73.35,0,7.6,320,89.4,10,69,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-02T10:00:00,21.9,17,73.99,0,3.6,320,96.6,10,144,0.5,1,Overcast,cloudy
+2023-01-02T11:00:00,22,17,73.36,0,1.9,160,89.4,10,44,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-02T12:00:00,23,18,73.52,0,13,360,89.4,10,61,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-02T13:00:00,22.4,17.2,72.43,0.013,7.2,340,96.6,10,204,0.7,2,"Rain, Overcast",rain
+2023-01-02T14:00:00,21,18,83.02,0,7.6,330,89.4,4,120,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-02T15:00:00,21,18,83.02,0,7.6,330,89.4,10,52,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-02T16:00:00,21.1,18.1,83.02,0,4.8,320,96.6,10,29,0.1,0,Overcast,cloudy
+2023-01-02T17:00:00,21,18,83.02,0,5.4,320,89.4,10,9,0,0,Partially cloudy,partly-cloudy-day
+2023-01-02T18:00:00,21,17,77.98,0,5.4,310,89.4,10,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-02T19:00:00,21,17.1,78.33,1.992,3.6,340,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-02T20:00:00,21,17,77.96,0,7.6,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T21:00:00,21,17,77.96,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-02T22:00:00,21,17.1,78.31,0,4.7,290,96.6,10,0,,0,Overcast,cloudy
+2023-01-02T23:00:00,21,17,77.96,0,3.6,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T00:00:00,21,17,77.96,0,1.8,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T01:00:00,20.7,17.4,81.51,0,7.2,20,96.6,10,0,,0,Overcast,cloudy
+2023-01-03T02:00:00,20,18,88.29,0,11.2,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T03:00:00,19,18,93.93,0,5.4,10,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T04:00:00,19.4,18.1,91.88,0,0,290,96.6,9.4,0,,0,Overcast,cloudy
+2023-01-03T05:00:00,19,18,93.93,0,3.6,20,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T06:00:00,19,18,93.93,0,1.8,330,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T07:00:00,19,18,93.94,0,1.8,360,89.5,6,2,0,0,Partially cloudy,partly-cloudy-day
+2023-01-03T08:00:00,20,19,93.98,0,5.4,330,89.4,6,10,0,0,Partially cloudy,partly-cloudy-day
+2023-01-03T09:00:00,20,19,93.99,0,1.8,270,89.4,8,30,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-03T10:00:00,20.1,18.9,92.74,0,3.6,343,96.6,8.3,43,0.2,0,Overcast,cloudy
+2023-01-03T11:00:00,21,20,94.02,0,3.6,270,89.4,10,61,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-03T12:00:00,21,19,88.37,0,7.6,340,89.4,10,72,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-03T13:00:00,21.2,19.1,87.62,2.008,3.6,340,96.6,9.4,54,0.2,1,"Rain, Overcast",rain
+2023-01-03T14:00:00,20,19,93.99,0,7.6,330,89.4,5,42,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-03T15:00:00,20,19,93.99,0,11.2,340,89.4,4,32,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-03T16:00:00,20.2,19.1,93.16,0,4.7,320,96.6,8.3,19,0.1,0,Overcast,cloudy
+2023-01-03T17:00:00,20,19,93.98,0,7.6,350,89.4,6,8,0,0,Partially cloudy,partly-cloudy-day
+2023-01-03T18:00:00,20,19,93.99,0,7.6,320,89.4,6,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-03T19:00:00,20,18.4,90.29,0.043,4.1,334,96.6,9.4,0,,0,"Rain, Overcast",rain
+2023-01-03T20:00:00,20,18,88.3,0,3.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T21:00:00,20,18,88.3,0,5.4,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-03T22:00:00,20.1,18.1,88.31,0,0,290,96.6,10,0,,0,Overcast,cloudy
+2023-01-03T23:00:00,20,18,88.3,0,7.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T00:00:00,20,18,88.3,0,5.4,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T01:00:00,19.4,18.1,91.89,0.025,3.6,320,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-04T02:00:00,19,18,93.93,0,3.6,330,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T03:00:00,19,18,93.93,0,3.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T04:00:00,19.4,18.1,92.3,0,3.6,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T05:00:00,19,18,93.95,0,1.9,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T06:00:00,20,18,88.3,0,1.8,350,100,10,0,,0,Overcast,cloudy
+2023-01-04T07:00:00,20,18,88.29,0.212,3.6,340,100,10,1,0,0,"Rain, Overcast",rain
+2023-01-04T08:00:00,21,18,83.02,0,5.4,310,89.4,10,9,0,0,Partially cloudy,partly-cloudy-day
+2023-01-04T09:00:00,22,18,78.11,0,7.6,320,89.4,10,21,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-04T10:00:00,22.4,18.2,77.14,0,3.6,320,89.5,10,32,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-04T11:00:00,23,18,73.51,0,7.6,330,89.4,10,51,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-04T12:00:00,23,18,73.52,0,7.6,340,89.4,10,60,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-04T13:00:00,22.2,18.7,80.63,0.102,3.6,348,96.6,9.1,84,0.3,1,"Rain, Overcast",rain
+2023-01-04T14:00:00,21,19,88.39,0,9.4,310,89.5,8,74,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-04T15:00:00,21,19,88.39,0,7.6,330,89.5,7,47,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-04T16:00:00,21.7,19,84.61,0,4.7,337,89.5,10,26,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-04T17:00:00,21,19,88.39,0,3.6,310,89.5,5,10,0,0,Partially cloudy,partly-cloudy-day
+2023-01-04T18:00:00,20,19,93.99,0,5.4,330,89.5,10,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-04T19:00:00,20.2,19,92.76,0,0,336,96.6,8.9,0,,0,Overcast,cloudy
+2023-01-04T20:00:00,20,19,93.99,0,5.4,350,89.5,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T21:00:00,20,19,93.99,0,5.4,330,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-04T22:00:00,20.1,19.2,94.83,0,4.1,323,96.6,8.6,0,,0,Overcast,cloudy
+2023-01-04T23:00:00,20,19,93.99,0,7.6,320,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T00:00:00,20,19,93.99,0,7.6,330,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T01:00:00,20.2,19.2,94,2.992,3.6,340,96.6,8.6,0,,0,"Rain, Overcast",rain
+2023-01-05T02:00:00,20,19,93.99,0,7.6,320,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T03:00:00,20,19,93.99,0,7.5,330,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T04:00:00,20.2,19.4,95.25,0,4.7,320,96.6,9.4,0,,0,Overcast,cloudy
+2023-01-05T05:00:00,20,19,93.99,0,5.4,320,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T06:00:00,20,20,99.98,0,7.5,340,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T07:00:00,20.7,19.7,94.02,0.025,3.6,340,96.6,9.4,15,0.1,0,"Rain, Overcast",rain
+2023-01-05T08:00:00,21,20,94.04,0,12.9,360,89.5,8,104,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-05T09:00:00,21,20,94.04,0,14.7,360,89.5,7,276,1,3,Partially cloudy,partly-cloudy-day
+2023-01-05T10:00:00,21.9,20.4,91.22,0,4.2,290,96.6,9.5,323,1.2,3,Overcast,cloudy
+2023-01-05T11:00:00,22,20,88.44,0,14.7,360,89.4,8,268,1,3,Partially cloudy,partly-cloudy-day
+2023-01-05T12:00:00,22,21,94.06,0,14.7,10,89.4,5,416,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-05T13:00:00,22.2,20.7,90.85,4.992,0,290,96.6,9.4,501,1.8,5,"Rain, Overcast",rain
+2023-01-05T14:00:00,22,20,88.45,0,12.9,360,89.4,8,496,1.8,5,Partially cloudy,partly-cloudy-day
+2023-01-05T15:00:00,22,21,94.06,0,12.9,350,89.4,7,183,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-05T16:00:00,22.4,20.2,87.33,0,0,28.9,96.6,10,100,0.4,1,Overcast,cloudy
+2023-01-05T17:00:00,23,20,83.26,0,9.3,40,89.4,10,30,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-05T18:00:00,23,20,83.26,0,7.5,20,89.4,10,3,0,0,Partially cloudy,partly-cloudy-night
+2023-01-05T19:00:00,22.4,19.7,84.68,0,3.6,360,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T20:00:00,22,20,88.45,0,3.6,290,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T21:00:00,22,20,88.47,0,1.8,290,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T22:00:00,21.9,20.1,89.63,0,3.1,110,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-05T23:00:00,23,19,78.27,0,7.5,40,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T00:00:00,23,18,73.53,0,5.4,40,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T01:00:00,22.1,18.5,79.89,0.001,4.7,6,89.5,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-06T02:00:00,22,19,83.16,0,9.3,10,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T03:00:00,22,18,78.12,0,9.3,40,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T04:00:00,21.9,18.2,79.86,0,3.1,360,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T05:00:00,22,18,78.12,0,14.7,10,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T06:00:00,22,18,78.12,0,12.9,10,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T07:00:00,22.1,17.1,73.37,0,10.8,20,89.5,10,15,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-06T08:00:00,23,17,69.04,0,12.9,30,89.4,10,135,0.5,1,Partially cloudy,partly-cloudy-day
+2023-01-06T09:00:00,23,18,73.51,0,12.9,10,89.4,10,341,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-06T10:00:00,23.4,17,67.57,0,15.1,20,96.6,10,247,0.9,2,Overcast,cloudy
+2023-01-06T11:00:00,24,17,64.96,0,25.9,20,89.4,10,199,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-06T12:00:00,23,17,69.03,0,18.3,20,89.4,10,496,1.8,5,Partially cloudy,partly-cloudy-day
+2023-01-06T13:00:00,21.2,18.2,83,0.003,10.8,20,96.5,8.3,256,0.9,3,"Rain, Overcast",rain
+2023-01-06T14:00:00,20,18,88.24,0,16.6,10,89.4,8,416,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-06T15:00:00,20,17,82.89,0,7.6,330,89.4,8,111,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-06T16:00:00,20.2,18.2,88.27,0,0,360,96.6,8.9,64,0.2,1,Overcast,cloudy
+2023-01-06T17:00:00,20,18,88.29,0,9.4,40,89.4,6,17,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-06T18:00:00,20,18,88.29,0,5.4,330,89.4,6,2,0,0,Partially cloudy,partly-cloudy-night
+2023-01-06T19:00:00,20,17.6,85.92,1.992,10.4,314,96.6,9.5,0,,0,"Rain, Overcast",rain
+2023-01-06T20:00:00,20,17,82.91,0,9.4,321,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-06T21:00:00,19,17,88.2,0,1.8,130,100,6,0,,0,Overcast,cloudy
+2023-01-06T22:00:00,19.1,17.9,92.69,0,1,260,100,8.6,0,,0,Overcast,cloudy
+2023-01-06T23:00:00,19,18,93.93,0,3.6,310,100,4,0,,0,Overcast,cloudy
+2023-01-07T00:00:00,19,18,93.93,0,3.6,330,100,7,0,,0,Overcast,cloudy
+2023-01-07T01:00:00,18.9,17.9,93.94,3.004,4.7,293,100,8.9,0,,0,"Rain, Overcast",rain
+2023-01-07T02:00:00,19,17,88.2,0,12.9,331,100,6,0,,0,Overcast,cloudy
+2023-01-07T03:00:00,20,16,77.81,0,12.9,330,100,10,0,,0,Overcast,cloudy
+2023-01-07T04:00:00,19.2,16.4,83.58,0,5.2,290,100,10,0,,0,Overcast,cloudy
+2023-01-07T05:00:00,20,15,72.94,0,11.2,310,100,8,0,,0,Overcast,cloudy
+2023-01-07T06:00:00,20,16,77.81,0,12.9,320,100,8,0,,0,Overcast,cloudy
+2023-01-07T07:00:00,19.9,15.7,77.1,0.013,8.8,317,96.6,10,3,0,0,"Rain, Overcast",rain
+2023-01-07T08:00:00,20,16,77.83,0,5.4,320,89.4,10,24,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-07T09:00:00,21,16,73.19,0,11.1,340,89.4,10,47,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-07T10:00:00,21.7,14.9,65.12,0,5.2,343,96.6,10,54,0.2,1,Overcast,cloudy
+2023-01-07T11:00:00,22,16,68.84,0,9.3,360,89.4,10,88,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-07T12:00:00,22,15,64.58,0,7.5,350,89.4,10,116,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-07T13:00:00,21.9,15.6,67.57,0.013,4.7,323,96.6,10,162,0.6,2,"Rain, Overcast",rain
+2023-01-07T14:00:00,21,17,77.98,0,7.5,80,89.4,10,118,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-07T15:00:00,22,16,68.86,0,9.3,360,89.4,10,60,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-07T16:00:00,22,15.2,65.48,0,5.2,351,96.6,10,27,0.1,0,Overcast,cloudy
+2023-01-07T17:00:00,21,16,73.17,0,0,359,89.4,10,14,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-07T18:00:00,21,16,73.17,0,1.8,280,89.4,10,2,0,0,Partially cloudy,partly-cloudy-night
+2023-01-07T19:00:00,21.1,16.2,73.86,0.051,0.5,230,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-07T20:00:00,20,16,77.81,0,1.8,260,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-07T21:00:00,20,17,82.91,0,3.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-07T22:00:00,20.4,17,81.12,0,0,272.8,96.6,10,0,,0,Overcast,cloudy
+2023-01-07T23:00:00,20,17,82.89,0,1.8,260,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T00:00:00,20,17,82.91,0,1.8,300,89.4,9,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T01:00:00,20.1,17.4,84.43,0.004,0,277.1,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-08T02:00:00,20,17,82.92,0,1.8,290,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T03:00:00,20,17,82.91,0,3.6,310,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T04:00:00,19.9,17.1,84.03,0,0,300.8,96.6,9.1,0,,0,Overcast,cloudy
+2023-01-08T05:00:00,20,18,88.3,0,0,359,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T06:00:00,19,18,93.93,0,1.8,190,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T07:00:00,19.9,18.4,91.09,0,0,290,96.6,8.9,2,0,0,Overcast,cloudy
+2023-01-08T08:00:00,21,18,83.02,0,0,359,89.4,6,11,0,0,Partially cloudy,partly-cloudy-day
+2023-01-08T09:00:00,21,17,77.96,0,1.8,250,89.4,7,31,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-08T10:00:00,21.9,17.9,78.1,0,1,319,96.6,16.5,53,0.2,1,Overcast,cloudy
+2023-01-08T11:00:00,23,18,73.53,0,7.6,350,89.5,10,70,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-08T12:00:00,23,18,73.52,0,13,360,89.5,10,103,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-08T13:00:00,23.1,18.1,73.54,0.013,0,290,96.6,17.1,60,0.2,1,"Rain, Overcast",rain
+2023-01-08T14:00:00,22,19,83.16,0,9.4,330,89.5,10,29,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-08T15:00:00,22,18,78.12,0,5.4,310,89.4,10,27,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-08T16:00:00,22.4,17.7,74.76,0,7.2,320,96.6,10,13,0,0,Overcast,cloudy
+2023-01-08T17:00:00,22,17,73.35,0,12.9,340,89.4,10,14,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-08T18:00:00,22,17,73.35,0,7.6,330,89.4,10,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-08T19:00:00,22,17.4,75.35,0.1,3.1,326,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-08T20:00:00,22,17,73.35,0,1.8,230,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T21:00:00,21,17,77.96,0,1.8,340,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T22:00:00,21.2,17.4,79.06,0,0,0,85.7,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-08T23:00:00,21,17,77.98,0,3.6,340,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T00:00:00,21,17,77.98,0,3.6,330,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T01:00:00,21.1,17.6,80.47,0.004,0,287.6,89.5,9.4,0,,0,"Rain, Partially cloudy",rain
+2023-01-09T02:00:00,21,17,77.98,0,1.8,260,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T03:00:00,21,18,83.02,0,3.6,230,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T04:00:00,21,19.1,88.78,0,0.5,211,96.6,9.1,0,,0,Overcast,cloudy
+2023-01-09T05:00:00,20,19,93.98,0,1.8,190,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T06:00:00,20,19,93.98,0,3.6,220,89.5,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T07:00:00,20.4,19.4,94,0.22,0,360,96.6,9.4,1,0,0,"Rain, Overcast",rain
+2023-01-09T08:00:00,21,20,94.04,0,0,359,89.5,8,7,0,0,Partially cloudy,partly-cloudy-day
+2023-01-09T09:00:00,22,20,88.45,0,1.8,250,89.5,8,51,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-09T10:00:00,22.9,19.7,82.51,0,3.1,320,96.6,9.4,72,0.3,1,Overcast,cloudy
+2023-01-09T11:00:00,24,19,73.69,0,3.6,300,89.4,10,43,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-09T12:00:00,25,19,69.42,0,3.6,250,89.4,10,365,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-09T13:00:00,23.6,19.5,78,0.013,7.2,320,96.6,10,203,0.7,2,"Rain, Overcast",rain
+2023-01-09T14:00:00,23,19,78.25,0,14.7,330,89.4,10,120,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-09T15:00:00,23,19,78.25,0,9.4,340,89.4,10,98,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-09T16:00:00,23.2,18.5,74.55,0,3.6,320,96.6,10,87,0.3,1,Overcast,cloudy
+2023-01-09T17:00:00,23,18,73.53,0,7.6,320,89.4,10,66,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-09T18:00:00,22,18,78.11,0,5.4,310,89.4,10,5,0,0,Partially cloudy,partly-cloudy-night
+2023-01-09T19:00:00,22.2,18.2,78.15,0,3.6,340,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T20:00:00,22,18,78.12,0,5.4,300,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T21:00:00,21,18,83.02,0,3.6,310,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T22:00:00,21.7,18.6,82.73,0,0,263.8,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-09T23:00:00,22,18,78.12,0,3.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T00:00:00,22,18,78.12,0,1.8,230,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T01:00:00,21.1,18.4,84.91,0,1,260,78.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T02:00:00,21,18,83.04,0,0,359,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T03:00:00,21,18,83.04,0,1.8,330,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T04:00:00,20.7,18.2,85.64,0,3.6,290,89.5,9.4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T05:00:00,21,18,83.02,0,7.6,320,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T06:00:00,21,19,88.37,0,7.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T07:00:00,21.1,18.5,84.92,0,0,275.1,89.5,10,6,0,0,Partially cloudy,partly-cloudy-day
+2023-01-10T08:00:00,22,19,83.14,0,3.6,230,89.4,10,60,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-10T09:00:00,24,19,73.69,0,3.6,280,89.4,10,164,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-10T10:00:00,23.4,19.1,76.59,0,2.2,9,89.5,10,279,1,3,Partially cloudy,partly-cloudy-day
+2023-01-10T11:00:00,24,19,73.69,0,5.4,330,89.4,10,415,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-10T12:00:00,23,19,78.24,0,7.6,20,89.4,10,428,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-10T13:00:00,24,19.2,74.67,0,4.7,354,96.6,10,416,1.5,4,Overcast,cloudy
+2023-01-10T14:00:00,23,20,83.24,0,11.1,10,89.4,10,338,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-10T15:00:00,23,20,83.27,0,9.4,360,89.4,10,348,1.3,3,Partially cloudy,partly-cloudy-day
+2023-01-10T16:00:00,23.1,19.7,81.46,0,5.2,14,96.6,10,344,1.2,3,Overcast,cloudy
+2023-01-10T17:00:00,23,20,83.27,0,9.4,360,89.4,10,153,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-10T18:00:00,23,19,78.26,0,9.4,360,89.4,10,11,0,0,Partially cloudy,partly-cloudy-night
+2023-01-10T19:00:00,22.4,19.1,81.38,0.006,3.6,360,89.5,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-10T20:00:00,22,19,83.14,0,5.4,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T21:00:00,22,19,83.14,0,7.5,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T22:00:00,22.4,18.9,80.3,0,5.2,343,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-10T23:00:00,22,18,78.11,0,1.8,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T00:00:00,22,19,83.14,0,3.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T01:00:00,22,18.5,80.24,0.004,3.6,290,78.6,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-11T02:00:00,22,18,78.12,0,5.4,330,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T03:00:00,22,19,83.16,0,3.6,290,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T04:00:00,21.1,18.9,87.22,0,4.1,279,78.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T05:00:00,21,18,83.02,0,3.6,330,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T06:00:00,21,19,88.37,0,1.8,340,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T07:00:00,21.1,19.1,88.39,0,0,292.8,78.6,17.1,15,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-11T08:00:00,22,19,83.14,0,1.8,250,50.1,10,123,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-11T09:00:00,24,19,73.68,0,0,359,89.4,10,153,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-11T10:00:00,25.6,19.4,68.33,0,4.1,337,78.6,17.1,284,1,3,Partially cloudy,partly-cloudy-day
+2023-01-11T11:00:00,25,19,69.4,0,9.4,350,50.1,10,332,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-11T12:00:00,26,20,69.6,0,14.7,10,50.1,10,390,1.4,4,Partially cloudy,partly-cloudy-day
+2023-01-11T13:00:00,26.1,19.7,67.82,0,9.9,331,89.5,17.1,329,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-11T14:00:00,25,20,73.85,0,22.3,360,50.1,10,272,1,3,Partially cloudy,partly-cloudy-day
+2023-01-11T15:00:00,24,20,78.39,0,22.3,10,50.1,10,234,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-11T16:00:00,23.4,19.9,80.41,0,11.5,17,78.6,17.1,188,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-11T17:00:00,22,20,88.45,0,24.1,10,50.1,10,143,0.5,1,Partially cloudy,partly-cloudy-day
+2023-01-11T18:00:00,22,19,83.16,0,24.1,360,50.1,10,11,0,0,Partially cloudy,partly-cloudy-night
+2023-01-11T19:00:00,22.4,19.2,82.1,0,7.2,360,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T20:00:00,23,19,78.26,0,18.3,10,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T21:00:00,23,19,78.26,0,11.1,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T22:00:00,23,19.7,81.45,0,2.7,350,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-11T23:00:00,23,19,78.26,0,5.4,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T00:00:00,23,19,78.26,0,3.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T01:00:00,22.4,19.9,85.45,0,0.5,330,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T02:00:00,22,20,88.47,0,1.8,290,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T03:00:00,22,20,88.45,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T04:00:00,22.4,19.9,85.81,0,0.5,10,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T05:00:00,22,20,88.45,0,1.8,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T06:00:00,22,20,88.45,0,1.8,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T07:00:00,22.4,20.2,87.72,0,0,0,89.4,17.1,17,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-12T08:00:00,24,20,78.39,0,1.8,280,89.4,10,168,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-12T09:00:00,25,20,73.85,0,1.8,300,89.4,10,401,1.4,4,Partially cloudy,partly-cloudy-day
+2023-01-12T10:00:00,25.7,20.5,73,0,0,320,78.6,17.1,568,2,6,Partially cloudy,partly-cloudy-day
+2023-01-12T11:00:00,26,20,69.59,0,5.4,190,50.1,10,720,2.6,7,Partially cloudy,partly-cloudy-day
+2023-01-12T12:00:00,27,20,65.62,0,1.8,330,50.4,10,788,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-12T13:00:00,25.7,20.4,72.36,0,7.2,320,89.5,17.1,703,2.5,7,Partially cloudy,partly-cloudy-day
+2023-01-12T14:00:00,24,20,78.39,0,16.5,350,89.4,10,655,2.4,7,Partially cloudy,partly-cloudy-day
+2023-01-12T15:00:00,24,20,78.39,0,20.5,360,28.8,10,489,1.8,5,Partially cloudy,partly-cloudy-day
+2023-01-12T16:00:00,23.4,20.1,81.49,0,11,360,78.6,17.1,240,0.9,2,Partially cloudy,partly-cloudy-day
+2023-01-12T17:00:00,22,20,88.44,0,16.5,360,89.4,10,61,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-12T18:00:00,22,20,88.44,0,12.9,340,89.4,10,9,0,0,Partially cloudy,partly-cloudy-night
+2023-01-12T19:00:00,22.8,20.2,85.48,0,5.8,334,96.5,17.1,0,,0,Overcast,cloudy
+2023-01-12T20:00:00,23,20,83.27,0,5.4,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T21:00:00,23,20,83.27,0,1.8,240,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T22:00:00,23.1,20.4,85.12,0,1,190,89.5,16.5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-12T23:00:00,23,21,88.55,0,3.6,220,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T00:00:00,23,21,88.55,0,3.6,180,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T01:00:00,22.4,20.4,88.5,0.001,0.5,229,78.6,16.5,0,,0,"Rain, Partially cloudy",rain
+2023-01-13T02:00:00,22,20,88.44,0,3.6,230,50.1,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T03:00:00,22,21,94.06,0,0,0,50.1,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T04:00:00,22.4,21,92.06,0,0,214.6,78.6,15.7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T05:00:00,22,21,94.08,0,3.6,170,50.1,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T06:00:00,22,21,94.08,0,1.8,190,50.1,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T07:00:00,22.4,21,91.66,0,0,210.1,71.4,16,24,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-13T08:00:00,24,21,83.34,0,9.3,190,28.6,8,201,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-13T09:00:00,26,21,73.99,0,3.6,330,50,8,419,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-13T10:00:00,26.7,21.7,74.11,0,6.1,70,78.6,16.3,605,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-13T11:00:00,26,21,73.97,0,9.3,100,50,8,740,2.7,7,Partially cloudy,partly-cloudy-day
+2023-01-13T12:00:00,26,21,73.97,0,7.5,100,50,8,808,2.9,8,Partially cloudy,partly-cloudy-day
+2023-01-13T13:00:00,26.1,21.3,74.97,0,7.8,96,89.4,17.1,802,2.9,8,Partially cloudy,partly-cloudy-day
+2023-01-13T14:00:00,28,22,69.93,0,5.4,110,89.3,10,723,2.6,7,Partially cloudy,partly-cloudy-day
+2023-01-13T15:00:00,26,21,73.98,0,9.4,120,28.6,10,582,2.1,6,Partially cloudy,partly-cloudy-day
+2023-01-13T16:00:00,26.4,21.1,72.75,0,7.8,79,64.3,17.1,390,1.4,4,Partially cloudy,partly-cloudy-day
+2023-01-13T17:00:00,25,21,78.5,0,7.6,110,28.6,10,172,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-13T18:00:00,24,21,83.34,0,7.6,110,28.6,10,13,0,0,Partially cloudy,partly-cloudy-night
+2023-01-13T19:00:00,24.4,22.1,87.12,0,3.6,110,71.4,16.3,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T20:00:00,23,21,88.54,0,1.8,310,28.6,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T21:00:00,24,21,83.37,0,0,359,50,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T22:00:00,23.7,21.6,88.2,0,0,0,78.6,15.7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-13T23:00:00,23,22,94.12,0,1.8,220,28.6,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T00:00:00,23,21,88.54,0,0,359,28.6,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T01:00:00,22.4,21.4,93.69,0,3.6,169,64.3,15.7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T02:00:00,21,20,94.04,0,1.8,210,28.6,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T03:00:00,20,20,99.94,0,0,359,28.6,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T04:00:00,20.8,20.2,96.54,0,1,190,64.3,15.4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T05:00:00,20,20,99.93,0,0,358,28.6,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T06:00:00,19,18,93.88,0,1.8,240,28.6,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T07:00:00,19.4,18.4,93.96,0,3.6,180,80,16.6,27,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-14T08:00:00,21,19,88.29,0,5.4,190,28.6,10,220,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-14T09:00:00,25,18,65.14,0,7.6,210,28.6,10,449,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-14T10:00:00,26.7,18.9,62.1,0,4.1,218,64.3,17.1,643,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-14T11:00:00,29,16,45.38,0,1.8,200,28.6,10,783,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-14T12:00:00,31,15,37.97,0,9.4,190,28.6,10,852,3.1,9,Partially cloudy,partly-cloudy-day
+2023-01-14T13:00:00,32.1,15,35.56,0,4.7,186,64.3,17.1,849,3.1,8,Partially cloudy,partly-cloudy-day
+2023-01-14T14:00:00,30,19,51.77,0,11.2,110,30,10,774,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-14T15:00:00,29,21,62.02,0,13,120,30,10,626,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-14T16:00:00,28.1,21.4,66.9,0,8.8,96,80,17.1,424,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-14T17:00:00,26,22,78.54,0,11.1,120,30,10,192,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-14T18:00:00,24,22,88.47,0,3.6,90,28.6,8,16,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-14T19:00:00,23.1,21.7,92.07,0,4.1,96,71.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T20:00:00,23,21,88.5,0,1.8,40,28.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T21:00:00,23,21,88.49,0,3.6,130,28.6,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T22:00:00,22.1,21.1,94.08,0,3.6,90,64.3,15.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-14T23:00:00,22,21,94.05,0,3.6,161,28.6,2,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T00:00:00,22,21,94.06,0,1.8,100,28.6,2,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T01:00:00,22.1,21,93.67,0,0.5,229.4,85.8,2.9,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T02:00:00,20,19,93.98,0,3.6,190,0.2,4,0,,0,Clear,clear-night
+2023-01-15T03:00:00,20,19,93.96,0,3.6,180,28.6,2,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T04:00:00,20.4,19.4,94.42,0,0,2,80,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T05:00:00,20,19,93.96,0,1.8,190,0.2,8,0,,0,Clear,clear-night
+2023-01-15T06:00:00,19,18,93.93,0,3.6,180,28.6,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T07:00:00,19.7,18.9,94.81,0,1,190,80,16,26,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-15T08:00:00,22,19,83.09,0,7.5,190,0.1,8,214,0.8,2,Clear,clear-day
+2023-01-15T09:00:00,25,19,69.35,0,3.6,190,0.1,8,446,1.6,4,Clear,clear-day
+2023-01-15T10:00:00,27,19.1,61.87,0,3.6,160,80,16.6,640,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-15T11:00:00,29,19,54.87,0,5.4,190,0.1,8,776,2.8,8,Clear,clear-day
+2023-01-15T12:00:00,30,17,45.68,0,7.6,160,30,10,844,3,8,Partially cloudy,partly-cloudy-day
+2023-01-15T13:00:00,29.7,19.4,54,0,11.4,87,60.1,17.1,838,3,8,Partially cloudy,partly-cloudy-day
+2023-01-15T14:00:00,29,20,58.34,0,13,110,30,10,758,2.7,8,Partially cloudy,partly-cloudy-day
+2023-01-15T15:00:00,28,20,61.79,0,11.2,100,28.6,10,610,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-15T16:00:00,27.4,20.4,65.37,0,8.3,90,64.3,17.1,411,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-15T17:00:00,25,21,78.5,0,7.6,70,30,10,184,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-15T18:00:00,24,21,83.36,0,3.6,300,28.6,8,16,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-15T19:00:00,24.1,21.1,83.37,0,7.2,360,64.3,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T20:00:00,23,21,88.54,0,20.5,20,28.8,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T21:00:00,23,21,88.54,0,14.7,20,28.8,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T22:00:00,23.7,20.2,80.81,0,5.8,20,64.3,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-15T23:00:00,23,21,88.54,0,16.5,10,28.8,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T00:00:00,22,20,88.44,0,13,360,28.8,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T01:00:00,22.8,20.1,84.72,0.004,0.5,360,64.3,16.3,0,,0,"Rain, Partially cloudy",rain
+2023-01-16T02:00:00,21,20,94,0,3.6,230,50.1,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T03:00:00,22,20,88.44,0,1.8,340,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T04:00:00,22.1,20,88.04,0,7.3,290,96.6,15.7,0,,0,Overcast,cloudy
+2023-01-16T05:00:00,22,21,94.03,0,3.6,330,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T06:00:00,22,20,88.41,0,24.1,350,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T07:00:00,22.1,20,88.04,0,3.6,360,89.5,9.5,22,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-16T08:00:00,22,20,88.42,0,24.1,350,89.4,8,171,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-16T09:00:00,21,20,93.98,0,27.7,350,89.5,7,180,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-16T10:00:00,21.1,19.6,91.14,0,7.2,24,96.6,8.6,79,0.3,1,Overcast,cloudy
+2023-01-16T11:00:00,21,19,88.39,0,18.4,350,89.5,4,74,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-16T12:00:00,20,19,93.99,0,27.7,360,89.5,6,62,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-16T13:00:00,20.4,19.2,92.76,0.004,7.2,24,96.6,8.9,69,0.2,1,"Rain, Overcast",rain
+2023-01-16T14:00:00,20,19,93.99,0,24.1,360,89.5,7,72,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-16T15:00:00,21,18,83.02,0,20.5,20,89.5,8,103,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-16T16:00:00,20.4,17.9,85.61,0,10.8,360,96.6,9.4,87,0.3,1,Overcast,cloudy
+2023-01-16T17:00:00,20,18,88.3,0,24.1,10,89.5,10,31,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-16T18:00:00,20,17,82.91,0,16.5,10,89.5,10,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-16T19:00:00,20,17.2,84.04,6.489,3.6,360,96.6,9.4,0,,0,"Rain, Overcast",rain
+2023-01-16T20:00:00,20,17,82.92,0,16.5,10,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T21:00:00,20,17,82.91,0,13,10,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T22:00:00,20.1,16.7,80.71,0,1.6,320,89.5,9.4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-16T23:00:00,20,16,77.83,0,5.4,340,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T00:00:00,20,16,77.83,0,5.4,30,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T01:00:00,20.1,16.7,80.71,0.001,3.6,360,89.5,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-17T02:00:00,20,16,77.83,0,11.2,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T03:00:00,20,16,77.83,0,5.4,330,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T04:00:00,19.7,16.2,80.28,0,2.6,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T05:00:00,19,16,82.8,0,0,359,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T06:00:00,19,16,82.8,0,0,359,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T07:00:00,19.4,17,86.28,0,3.6,290,89.5,9.4,7,0,0,Partially cloudy,partly-cloudy-day
+2023-01-17T08:00:00,20,17,82.92,0,0,359,89.5,8,16,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-17T09:00:00,21,17,77.98,0,1.8,290,89.5,8,126,0.5,1,Partially cloudy,partly-cloudy-day
+2023-01-17T10:00:00,21.4,17.9,80.49,0,0,290,96.6,10,138,0.5,1,Overcast,cloudy
+2023-01-17T11:00:00,22,17,73.35,0,11.2,350,89.5,10,117,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-17T12:00:00,22,18,78.12,0,11.2,10,89.5,10,296,1.1,3,Partially cloudy,partly-cloudy-day
+2023-01-17T13:00:00,23.4,16.9,66.96,0.001,7.2,340,96.6,10,126,0.5,1,"Rain, Overcast",rain
+2023-01-17T14:00:00,22,18,78.11,0,16.6,360,89.5,10,95,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-17T15:00:00,22,17,73.35,0,16.6,330,89.5,10,81,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-17T16:00:00,21.4,16.6,73.9,0,12.4,323,96.6,10,56,0.2,1,Overcast,cloudy
+2023-01-17T17:00:00,21,16,73.17,0,14.8,330,89.5,10,34,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-17T18:00:00,21,16,73.17,0,7.6,330,89.5,10,14,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-17T19:00:00,20.4,16.6,78.58,0.1,2.7,340,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-17T20:00:00,20,17,82.91,0,9.4,350,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T21:00:00,19,18,93.93,0,9.4,350,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-17T22:00:00,19.1,17.6,91.03,0,0.5,340,96.6,9.4,0,,0,Overcast,cloudy
+2023-01-17T23:00:00,19,17,88.22,0,1.8,330,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T00:00:00,19,17,88.22,0,5.4,330,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T01:00:00,19.7,17.2,85.91,0.008,3.6,320,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-18T02:00:00,20,17,82.92,0,9.4,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T03:00:00,20,16,77.83,0,9.4,330,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T04:00:00,19.4,16.9,85.13,0,7.2,320,96.6,9.4,0,,0,Overcast,cloudy
+2023-01-18T05:00:00,19,17,88.22,0,3.6,350,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T06:00:00,19,17,88.22,0,5.4,300,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-18T07:00:00,19,17.2,89.41,0.013,3.2,320,96.6,10,2,0,0,"Rain, Overcast",rain
+2023-01-18T08:00:00,19,17,88.22,0,9.4,310,89.5,10,21,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-18T09:00:00,20,17,82.91,0,5.4,320,89.5,10,46,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-18T10:00:00,19.7,17.7,88.28,0,1.6,300,96.6,10,49,0.2,0,Overcast,cloudy
+2023-01-18T11:00:00,21,18,83.04,0,9.4,320,89.5,10,49,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-18T12:00:00,21,17,77.98,0,7.6,360,89.5,10,46,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-18T13:00:00,20.1,18,87.91,0.042,7.8,320,96.6,8.6,41,0.1,0,"Rain, Overcast",rain
+2023-01-18T14:00:00,20,18,88.3,0,7.6,310,89.5,6,45,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-18T15:00:00,19,18,93.95,0,9.4,320,100,4,37,0.1,0,Overcast,cloudy
+2023-01-18T16:00:00,19.1,18,93.52,0,8.8,320,100,9.1,23,0.1,0,Overcast,cloudy
+2023-01-18T17:00:00,19,17,88.2,0,7.6,320,100,10,12,0,0,Overcast,cloudy
+2023-01-18T18:00:00,19,17,88.2,0,5.4,310,89.5,8,1,0,0,Partially cloudy,partly-cloudy-night
+2023-01-18T19:00:00,19.4,16.9,85.5,2.589,5.2,326,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-18T20:00:00,19,16,82.8,0,7.6,320,100,10,0,,0,Overcast,cloudy
+2023-01-18T21:00:00,19,16,82.79,0,9.4,320,100,10,0,,0,Overcast,cloudy
+2023-01-18T22:00:00,18.7,16.1,84.65,0,7.3,320,100,10,0,,0,Overcast,cloudy
+2023-01-18T23:00:00,19,16,82.8,0,7.6,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T00:00:00,19,16,82.8,0,5.4,340,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T01:00:00,19.1,16.8,86.64,0.013,7.2,320,96.6,10,0,,0,"Rain, Overcast",rain
+2023-01-19T02:00:00,18,16,88.12,0,7.6,310,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T03:00:00,18,16,88.14,0,3.6,320,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T04:00:00,18.4,15.9,85.03,0,3.6,346,96.6,10,0,,0,Overcast,cloudy
+2023-01-19T05:00:00,19,16,82.79,0,1.8,270,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T06:00:00,19,16,82.79,0,1.8,270,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T07:00:00,18.7,16.2,85.43,0,0.5,340,96.6,10,7,0,0,Overcast,cloudy
+2023-01-19T08:00:00,20,16,77.8,0,3.6,340,89.4,10,45,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-19T09:00:00,21,16,73.16,0,1.8,260,89.4,10,70,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-19T10:00:00,21.4,16.4,73.53,0,0,360,89.4,10,78,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-19T11:00:00,22,16,68.8,0,5.4,350,89.4,10,151,0.5,2,Partially cloudy,partly-cloudy-day
+2023-01-19T12:00:00,23,17,68.99,0,9.4,350,89.4,10,446,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-19T13:00:00,22.4,16.9,70.78,0,5.8,343,89.4,17.1,560,2,6,Partially cloudy,partly-cloudy-day
+2023-01-19T14:00:00,22,17,73.29,0,14.8,360,89.3,10,433,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-19T15:00:00,22,17,73.31,0,14.8,360,50,10,552,2,6,Partially cloudy,partly-cloudy-day
+2023-01-19T16:00:00,22.1,17.2,74,0,6.8,360,78.6,17.1,364,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-19T17:00:00,21,18,83.01,0,11.2,20,50,10,160,0.6,2,Partially cloudy,partly-cloudy-day
+2023-01-19T18:00:00,20,17,82.89,0,9.4,360,89.4,10,17,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-19T19:00:00,20.4,17.7,84.45,0,6.3,343,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T20:00:00,20,18,88.27,0,9.4,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T21:00:00,20,17,82.89,0,5.4,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T22:00:00,20.4,17.1,81.45,0,4.7,326,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-19T23:00:00,20,17,82.89,0,7.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T00:00:00,20,17,82.89,0,5.4,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T01:00:00,20,16.7,81.41,0,3.6,340,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T02:00:00,19,17,88.19,0,7.6,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T03:00:00,19,17,88.19,0,3.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T04:00:00,19.4,17.1,86.65,0,2.2,340,96.6,17.1,0,,0,Overcast,cloudy
+2023-01-20T05:00:00,19,16,82.77,0,7.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T06:00:00,19,16,82.77,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T07:00:00,19.1,16.6,85.45,0,3.6,290,89.5,17.1,8,0,0,Partially cloudy,partly-cloudy-day
+2023-01-20T08:00:00,20,17,82.87,0,7.6,330,89.4,10,53,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-20T09:00:00,22,17,73.32,0,5.4,330,89.4,10,150,0.5,2,Partially cloudy,partly-cloudy-day
+2023-01-20T10:00:00,23.3,16.8,66.94,0,4.7,290,89.5,17.1,612,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-20T11:00:00,24,16,61.02,0,9.4,30,50.1,10,770,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-20T12:00:00,25,17,61.24,0,7.6,40,50.1,10,839,3,8,Partially cloudy,partly-cloudy-day
+2023-01-20T13:00:00,23.6,17.4,67.89,0.004,14.4,360,90,20,819,2.9,8,"Rain, Partially cloudy",rain
+2023-01-20T14:00:00,23,18,73.51,0,31.6,20,89.4,10,719,2.6,7,Partially cloudy,partly-cloudy-day
+2023-01-20T15:00:00,23,18,73.49,0,24.1,10,89.4,10,544,2,5,Partially cloudy,partly-cloudy-day
+2023-01-20T16:00:00,22.4,16.9,71.11,0,7.2,360,89.4,17.1,317,1.1,3,Partially cloudy,partly-cloudy-day
+2023-01-20T17:00:00,22,17,73.32,0,20.5,20,89.4,10,103,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-20T18:00:00,21,16,73.16,0,25.9,360,89.4,10,5,0,0,Partially cloudy,partly-cloudy-night
+2023-01-20T19:00:00,21.7,16.4,71.65,0,10.8,360,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T20:00:00,21,17,77.95,0,14.7,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T21:00:00,21,16,73.17,0,3.6,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T22:00:00,21.1,16.6,75.54,0,1.6,250,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-20T23:00:00,21,16,73.16,0,7.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T00:00:00,21,16,73.17,0,5.4,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T01:00:00,20.7,16,74.47,0,4.1,317,96.6,17.1,0,,0,Overcast,cloudy
+2023-01-21T02:00:00,21,17,77.96,0,3.6,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T03:00:00,20,17,82.91,0,5.4,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T04:00:00,20.4,16.9,80.38,0,3.6,296,96.6,17.1,0,,0,Overcast,cloudy
+2023-01-21T05:00:00,20,17,82.91,0,3.6,310,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T06:00:00,20,17,82.91,0,3.6,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T07:00:00,20.4,17.1,81.48,0.001,3.1,320,96.6,17.1,6,0,0,"Rain, Overcast",rain
+2023-01-21T08:00:00,21,17,77.96,0,5.4,320,89.4,8,42,0.2,0,Partially cloudy,partly-cloudy-day
+2023-01-21T09:00:00,22,18,78.11,0,5.4,340,89.4,8,93,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-21T10:00:00,22.4,17.7,74.76,0,1.6,359,96.6,17.1,170,0.6,2,Overcast,cloudy
+2023-01-21T11:00:00,24,18,69.22,0,3.6,270,89.4,10,329,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-21T12:00:00,24,18,69.22,0,5.4,360,89.4,10,487,1.8,5,Partially cloudy,partly-cloudy-day
+2023-01-21T13:00:00,25,18.2,66.1,0.003,3.6,20,89.5,17.1,334,1.2,3,"Rain, Partially cloudy",rain
+2023-01-21T14:00:00,23,18,73.51,0,16.5,20,89.4,10,289,1,3,Partially cloudy,partly-cloudy-day
+2023-01-21T15:00:00,22,18,78.08,0,18.3,10,89.4,10,260,0.9,3,Partially cloudy,partly-cloudy-day
+2023-01-21T16:00:00,22.1,17.9,77.06,0,9.9,3,96.6,10,204,0.7,2,Overcast,cloudy
+2023-01-21T17:00:00,21,18,82.99,0,14.7,10,89.4,10,80,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-21T18:00:00,21,18,82.99,0,14.7,360,89.4,10,7,0,0,Partially cloudy,partly-cloudy-night
+2023-01-21T19:00:00,21.4,18.2,82.32,0,5.8,326,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T20:00:00,21,18,82.99,0,11.1,350,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T21:00:00,21,18,83.01,0,11.1,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-21T22:00:00,21.4,18.2,82.33,0,4.7,340,96.5,10,0,,0,Overcast,cloudy
+2023-01-21T23:00:00,21,18,83.01,0,7.5,360,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T00:00:00,21,18,83.02,0,1.8,320,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T01:00:00,21.4,18.6,84.19,0,0,252.2,89.4,9.5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T02:00:00,20,18,88.29,0,3.6,330,50.1,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T03:00:00,20,18,88.3,0,0,359,28.8,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T04:00:00,19.4,17.9,91.06,0,0,0,64.3,8.9,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T05:00:00,19,18,93.93,0,0,0,25,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T06:00:00,20,19,93.98,0,3.6,300,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T07:00:00,20.4,18.9,91.12,0,3.6,299,89.4,9.4,8,0,0,Partially cloudy,partly-cloudy-day
+2023-01-22T08:00:00,22,19,83.16,0,5.4,320,50.1,10,70,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-22T09:00:00,24,19,73.66,0,1.8,220,28.6,10,181,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-22T10:00:00,25.4,19.1,68.24,0,3.6,111,89.4,17.1,358,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-22T11:00:00,24,19,73.62,0,5.4,90,89.3,10,495,1.8,5,Partially cloudy,partly-cloudy-day
+2023-01-22T12:00:00,25,19,69.37,0,1.8,360,89.3,10,607,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-22T13:00:00,26.1,19.5,67.16,0,3.1,320,78.6,17.1,634,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-22T14:00:00,26,20,69.58,0,5.4,350,49.9,10,764,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-22T15:00:00,27,20,65.6,0,3.6,20,28.6,10,622,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-22T16:00:00,26.4,19.9,67.26,0,5.8,343,71.4,17.1,424,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-22T17:00:00,24,20,78.37,0,7.6,70,50,10,198,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-22T18:00:00,23,20,83.23,0,5.4,320,89.3,8,20,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-22T19:00:00,23.4,20.4,82.93,0,4.7,334,89.5,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T20:00:00,23,20,83.24,0,3.6,310,89.3,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T21:00:00,23,20,83.26,0,3.6,310,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T22:00:00,23.4,20.2,82.57,0,0,0,89.5,16,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-22T23:00:00,23,20,83.26,0,1.8,190,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T00:00:00,23,21,88.54,0,3.6,220,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T01:00:00,23.1,21.1,88.55,0,0,230.6,96.5,15.7,0,,0,Overcast,cloudy
+2023-01-23T02:00:00,23,21,88.54,0,1.8,200,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T03:00:00,23,21,88.54,0,1.8,300,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T04:00:00,22.4,20.9,90.87,0,0,0,89.5,16,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T05:00:00,23,21,88.55,0,0,359,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T06:00:00,22,21,94.06,0,0,359,88.1,3,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T07:00:00,22.7,21.1,90.48,0,0,0,96.5,16.6,22,0.1,0,Overcast,cloudy
+2023-01-23T08:00:00,23,21,88.54,0,1.8,350,89.5,8,198,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-23T09:00:00,24,21,83.36,0,5.4,330,89.4,8,364,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-23T10:00:00,25,21,78.52,0,3.6,340,89.4,16.6,340,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-23T11:00:00,26,21,73.99,0,5.4,10,89.4,10,459,1.7,5,Partially cloudy,partly-cloudy-day
+2023-01-23T12:00:00,26,21,73.99,0,9.4,350,89.4,10,641,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-23T13:00:00,26.4,20.9,71.51,0,3.6,181,89.4,17.1,765,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-23T14:00:00,26,21,74,0,7.6,340,89.4,10,725,2.6,7,Partially cloudy,partly-cloudy-day
+2023-01-23T15:00:00,26,21,74,0,7.6,330,89.4,10,592,2.1,6,Partially cloudy,partly-cloudy-day
+2023-01-23T16:00:00,25.8,20.7,73.65,0,0,340,89.5,17.1,399,1.4,4,Partially cloudy,partly-cloudy-day
+2023-01-23T17:00:00,24,21,83.36,0,7.6,330,89.4,10,191,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-23T18:00:00,24,21,83.37,0,9.4,340,89.4,7,20,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-23T19:00:00,23.7,21.1,85.18,0,0,340,96.5,16.3,0,,0,Overcast,cloudy
+2023-01-23T20:00:00,23,21,88.54,0,7.6,300,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T21:00:00,23,21,88.54,0,7.5,300,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T22:00:00,23.4,21.1,86.66,0,7.3,320,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-23T23:00:00,23,21,88.54,0,3.6,310,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T00:00:00,23,21,88.54,0,0,359,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T01:00:00,23.4,21.9,90.93,0,0.5,300,89.4,16,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T02:00:00,23,22,94.11,0,1.8,300,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T03:00:00,23,22,94.11,0,1.8,310,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T04:00:00,22.7,21.9,94.93,0,3.6,340,96.6,2.3,0,,0,Overcast,cloudy
+2023-01-24T05:00:00,22,22,99.98,0,7.6,340,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T06:00:00,23,22,94.11,0,20.5,60,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-24T07:00:00,23.4,21.2,87.81,0,10.8,50,96.6,9.1,2,0,0,Overcast,cloudy
+2023-01-24T08:00:00,24,20,78.4,0,24.1,50,89.4,7,3,0,0,Partially cloudy,partly-cloudy-day
+2023-01-24T09:00:00,23,20,83.26,0,20.5,40,89.4,7,9,0,0,Partially cloudy,partly-cloudy-day
+2023-01-24T10:00:00,23.4,18.9,75.92,0,10.8,50,96.6,9.1,24,0.1,0,Overcast,cloudy
+2023-01-24T11:00:00,22,19,83.16,0,16.6,30,89.4,7,33,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-24T12:00:00,21,20,94.02,0,24.1,10,100,4,30,0.1,0,Overcast,cloudy
+2023-01-24T13:00:00,21,18.9,87.6,0.216,7.2,20,100,8.6,26,0.1,0,"Rain, Overcast",rain
+2023-01-24T14:00:00,20,18,88.29,0,24.1,10,100,4,23,0.1,0,Overcast,cloudy
+2023-01-24T15:00:00,19,18,93.95,0,14.8,20,89.4,5,19,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-24T16:00:00,19.7,17.6,87.87,0,6.3,20,96.6,8.8,15,0.1,0,Overcast,cloudy
+2023-01-24T17:00:00,19,17,88.22,0,14.8,350,100,3,8,0,0,Overcast,cloudy
+2023-01-24T18:00:00,18,17,93.9,0,29.5,350,100,3,1,0,0,Overcast,cloudy
+2023-01-24T19:00:00,18.1,17.1,93.91,40.028,7.2,320,100,4,0,,0,"Rain, Overcast",rain
+2023-01-24T20:00:00,17,16,93.86,0,7.6,330,100,5,0,,0,Overcast,cloudy
+2023-01-24T21:00:00,17,16,93.86,0,5.4,330,100,5,0,,0,Overcast,cloudy
+2023-01-24T22:00:00,17,16.1,94.28,0,0,290,100,8.6,0,,0,Overcast,cloudy
+2023-01-24T23:00:00,17,16,93.86,0,5.4,310,100,6,0,,0,Overcast,cloudy
+2023-01-25T00:00:00,16,16,100,0,5.4,310,100,6,0,,0,Overcast,cloudy
+2023-01-25T01:00:00,16.4,15.4,93.4,0.047,3.6,320,100,9.1,0,,0,"Rain, Overcast",rain
+2023-01-25T02:00:00,16,15,93.81,0,3.6,320,100,8,0,,0,Overcast,cloudy
+2023-01-25T03:00:00,16,15,93.81,0,9.4,320,100,8,0,,0,Overcast,cloudy
+2023-01-25T04:00:00,16.4,15,91.71,0,3.6,320,100,9.4,0,,0,Overcast,cloudy
+2023-01-25T05:00:00,16,15,93.81,0,11.2,320,100,5,0,,0,Overcast,cloudy
+2023-01-25T06:00:00,16,15,93.81,0,9.4,310,100,6,0,,0,Overcast,cloudy
+2023-01-25T07:00:00,16.4,15.1,91.71,0.119,7.2,320,100,9.4,1,0,0,"Rain, Overcast",rain
+2023-01-25T08:00:00,17,15,88.05,0,7.6,310,100,5,8,0,0,Overcast,cloudy
+2023-01-25T09:00:00,17,16,93.86,0,7.6,310,100,7,19,0.1,0,Overcast,cloudy
+2023-01-25T10:00:00,17.4,16.1,92.18,0,3.6,320,100,8.8,30,0.1,0,Overcast,cloudy
+2023-01-25T11:00:00,18,17,93.89,0,5.4,320,100,10,40,0.1,0,Overcast,cloudy
+2023-01-25T12:00:00,19,17,88.2,0,7.6,320,89.4,10,60,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-25T13:00:00,20.4,16.7,79.66,0.047,7.2,360,96.6,10,77,0.3,1,"Rain, Overcast",rain
+2023-01-25T14:00:00,20,17,82.92,0,14.8,10,89.4,10,73,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-25T15:00:00,20,15,73,0,20.5,360,89.4,10,59,0.2,1,Partially cloudy,partly-cloudy-day
+2023-01-25T16:00:00,20.4,15.9,75.43,0,10.4,357,89.5,10,70,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-25T17:00:00,20,15,73,0,5.4,310,89.4,10,24,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-25T18:00:00,19,15,77.65,0,9.3,340,89.4,10,2,0,0,Partially cloudy,partly-cloudy-night
+2023-01-25T19:00:00,19.1,15.1,77.67,19.218,3.6,320,89.5,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-25T20:00:00,18,15,82.65,0,7.6,330,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-25T21:00:00,17,15,88.03,0,1.8,230,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-25T22:00:00,17.4,15.1,86.47,0,3.6,290,71.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-25T23:00:00,17,15,88.03,0,1.8,220,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T00:00:00,17,15,88.03,0,1.8,230,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T01:00:00,17.7,14.7,82.64,0,3.1,290,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T02:00:00,18,16,88.12,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T03:00:00,18,16,88.12,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T04:00:00,18,15.4,84.59,0,0.5,260.9,89.5,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T05:00:00,18,15,82.67,0,0,359,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T06:00:00,18,15,82.67,0,1.8,210,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T07:00:00,18.1,16.4,90.16,0,1,230,89.4,9.5,25,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-26T08:00:00,20,16,77.8,0,0,359,89.4,8,209,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-26T09:00:00,21,16,73.15,0,3.6,200,89.3,10,433,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-26T10:00:00,21.1,16.4,74.49,0,0.5,320,96.5,10,597,2.1,6,Overcast,cloudy
+2023-01-26T11:00:00,21,16,73.12,0,0,360,89.4,10,604,2.2,6,Partially cloudy,partly-cloudy-day
+2023-01-26T12:00:00,23,17,68.99,0,1.8,350,89.4,10,516,1.9,5,Partially cloudy,partly-cloudy-day
+2023-01-26T13:00:00,23,17.4,70.56,0,3.6,360,89.4,10,475,1.7,5,Partially cloudy,partly-cloudy-day
+2023-01-26T14:00:00,22,17,73.29,0,12.9,350,89.4,10,413,1.5,4,Partially cloudy,partly-cloudy-day
+2023-01-26T15:00:00,23,18,73.48,0,11.2,350,89.4,10,346,1.2,3,Partially cloudy,partly-cloudy-day
+2023-01-26T16:00:00,22.4,17.7,74.71,0,6.3,360,96.6,10,257,0.9,3,Overcast,cloudy
+2023-01-26T17:00:00,21,18,82.99,0,12.9,350,89.4,10,192,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-26T18:00:00,21,18,82.99,0,9.3,320,89.4,10,23,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-26T19:00:00,21.1,18.1,83.03,0,4.7,320,96.6,9.5,0,,0,Overcast,cloudy
+2023-01-26T20:00:00,21,18,82.99,0,5.4,300,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T21:00:00,21,18,83.01,0,5.4,300,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-26T22:00:00,21.1,18.6,85.67,0,0,2,96.6,9.2,0,,0,Overcast,cloudy
+2023-01-26T23:00:00,21,18,83.02,0,1.8,310,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T00:00:00,21,19,88.36,0,0,358,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T01:00:00,21.1,18.9,87.22,0,0.5,270,96.6,8.9,0,,0,Overcast,cloudy
+2023-01-27T02:00:00,21,19,88.37,0,1.8,300,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T03:00:00,20,19,93.98,0,3.6,310,89.4,3,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T04:00:00,20.4,19.4,94.42,0,0.5,330,96.6,8,0,,0,Overcast,cloudy
+2023-01-27T05:00:00,20,20,100,0,1.8,270,89.4,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T06:00:00,20,19,93.99,0,1.8,230,100,2,0,,0,Overcast,cloudy
+2023-01-27T07:00:00,20.1,19.1,93.99,0.013,1.1,320,100,7.7,3,0,0,"Rain, Overcast",rain
+2023-01-27T08:00:00,20,19,93.99,0,7.6,320,100,3,19,0.1,0,Overcast,cloudy
+2023-01-27T09:00:00,20,20,100,0,5.4,330,100,3,30,0.1,0,Overcast,cloudy
+2023-01-27T10:00:00,21.1,20.1,94.03,0,5.3,323,100,8.6,45,0.2,0,Overcast,cloudy
+2023-01-27T11:00:00,21,20,94.02,0,14.8,40,100,6,104,0.4,1,Overcast,cloudy
+2023-01-27T12:00:00,22,19,83.14,0,29.5,350,100,8,171,0.6,2,Overcast,cloudy
+2023-01-27T13:00:00,22,19.4,85.01,0.047,13.1,357,96.6,9.4,189,0.7,2,"Rain, Overcast",rain
+2023-01-27T14:00:00,22,18,78.11,0,38.8,360,89.4,8,214,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-27T15:00:00,22,18,78.09,0,38.8,360,89.4,8,356,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-27T16:00:00,20.7,18.1,84.84,0,7.2,360,96.6,9.2,103,0.4,1,Overcast,cloudy
+2023-01-27T17:00:00,20,19,93.94,0,35.2,360,89.4,3,11,0,0,Partially cloudy,partly-cloudy-day
+2023-01-27T18:00:00,19,18,93.9,0,27.7,10,89.4,3,2,0,0,Partially cloudy,partly-cloudy-night
+2023-01-27T19:00:00,19.1,18.2,94.75,32.263,14.6,3,100,3.8,0,,0,"Rain, Overcast",rain
+2023-01-27T20:00:00,19,18,93.93,0,22.3,350,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T21:00:00,19,18,93.93,0,20.5,350,89.4,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-27T22:00:00,18.4,17.7,96.05,0,7.8,320,96.6,4.3,0,,0,Overcast,cloudy
+2023-01-27T23:00:00,18,18,100,0,9.4,330,89.4,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-28T00:00:00,18,17,93.9,0,9.4,340,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-28T01:00:00,18.4,17.4,93.91,0.047,7.2,320,96.6,8.6,0,,0,"Rain, Overcast",rain
+2023-01-28T02:00:00,18,17,93.9,0,7.6,340,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-28T03:00:00,18,17,93.9,0,3.6,320,89.4,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-28T04:00:00,17.4,16.7,95.59,0,8.4,320,96.6,8.6,0,,0,Overcast,cloudy
+2023-01-28T05:00:00,18,17,93.89,0,14.8,320,89.4,4,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-28T06:00:00,18,17,93.9,0,16.6,320,100,4,0,,0,Overcast,cloudy
+2023-01-28T07:00:00,18.4,17.2,93.07,0.059,3.6,360,100,8,1,0,0,"Rain, Overcast",rain
+2023-01-28T08:00:00,18,17,93.9,0,20.5,360,100,4,8,0,0,Overcast,cloudy
+2023-01-28T09:00:00,18,17,93.9,0,20.5,350,100,4,18,0.1,0,Overcast,cloudy
+2023-01-28T10:00:00,17.7,16.9,94.74,0,3.7,340,100,8.3,30,0.1,0,Overcast,cloudy
+2023-01-28T11:00:00,17,16,93.84,0,11.2,310,100,4,42,0.2,0,Overcast,cloudy
+2023-01-28T12:00:00,17,16,93.86,0,13,310,100,4,40,0.1,0,Overcast,cloudy
+2023-01-28T13:00:00,17.1,16.1,93.85,0.042,7.3,320,100,8.6,34,0.1,0,"Rain, Overcast",rain
+2023-01-28T14:00:00,17,16,93.86,0,11.2,310,100,6,44,0.2,0,Overcast,cloudy
+2023-01-28T15:00:00,17,16,93.84,0,7.6,320,100,7,49,0.2,0,Overcast,cloudy
+2023-01-28T16:00:00,16.7,14.9,88.83,0,8.4,323,100,8.6,29,0.1,0,Overcast,cloudy
+2023-01-28T17:00:00,16,15,93.81,0,7.6,320,100,5,21,0.1,0,Overcast,cloudy
+2023-01-28T18:00:00,16,15,93.79,0,5.5,320,100,6,4,0,0,Overcast,cloudy
+2023-01-28T19:00:00,16.1,14.7,91.69,61.854,2.6,331,100,9.1,0,,0,"Rain, Overcast",rain
+2023-01-28T20:00:00,16,14,87.95,0,7.6,320,100,8,0,,0,Overcast,cloudy
+2023-01-28T21:00:00,16,14,87.96,0,5.4,320,100,8,0,,0,Overcast,cloudy
+2023-01-28T22:00:00,16.1,14.5,90.43,0,1,340,100,9.4,0,,0,Overcast,cloudy
+2023-01-28T23:00:00,17,14,82.53,0,3.6,300,100,8,0,,0,Overcast,cloudy
+2023-01-29T00:00:00,16,14,87.95,0,0,359,100,8,0,,0,Overcast,cloudy
+2023-01-29T01:00:00,16.7,14.9,88.82,0.003,0.5,325.2,100,9.4,0,,0,"Rain, Overcast",rain
+2023-01-29T02:00:00,16,15,93.78,0,3.6,240,100,8,0,,0,Overcast,cloudy
+2023-01-29T03:00:00,16,14,87.93,0,3.6,300,100,8,0,,0,Overcast,cloudy
+2023-01-29T04:00:00,16.1,14.2,88.77,0,1,320,96.6,9.4,0,,0,Overcast,cloudy
+2023-01-29T05:00:00,16,14,87.96,0,9.4,310,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-29T06:00:00,16,14,87.95,0,5.4,320,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-29T07:00:00,16.4,14.2,87.18,0,7.3,317,100,9.4,1,0,0,Overcast,cloudy
+2023-01-29T08:00:00,17,14,82.54,0,7.6,320,100,8,10,0,0,Overcast,cloudy
+2023-01-29T09:00:00,17,15,88.03,0,9.4,310,100,10,30,0.1,0,Overcast,cloudy
+2023-01-29T10:00:00,18.4,15.1,81.21,0,6.3,343,100,10,66,0.2,1,Overcast,cloudy
+2023-01-29T11:00:00,19,15,77.66,0,18.3,350,100,10,91,0.3,1,Overcast,cloudy
+2023-01-29T12:00:00,19,15,77.66,0,22.3,350,100,10,116,0.4,1,Overcast,cloudy
+2023-01-29T13:00:00,19.7,14.9,73.62,0.014,20.4,14,89.5,10,146,0.5,1,"Rain, Partially cloudy",rain
+2023-01-29T14:00:00,20,15,72.98,0,24.1,350,89.4,10,121,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-29T15:00:00,20,14,68.42,0,20.5,340,89.4,10,97,0.3,1,Partially cloudy,partly-cloudy-day
+2023-01-29T16:00:00,19.4,13.9,70.26,0,11.5,360,96.6,10,59,0.2,1,Overcast,cloudy
+2023-01-29T17:00:00,19,14,72.82,0,18.3,350,89.4,10,23,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-29T18:00:00,19,13,68.23,0,12.9,340,89.4,10,4,0,0,Partially cloudy,partly-cloudy-night
+2023-01-29T19:00:00,18.7,12.7,68.19,0.199,5.8,354,89.5,10,0,,0,"Rain, Partially cloudy",rain
+2023-01-29T20:00:00,18,13,72.61,0,3.6,300,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-29T21:00:00,18,13,72.61,0,3.6,300,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-29T22:00:00,17.4,13.2,76.7,0,1,299,89.4,9.5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-29T23:00:00,16,13,82.42,0,5.4,310,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T00:00:00,16,12,77.2,0,3.6,300,50.1,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T01:00:00,16.1,12.2,77.94,0,3.6,314,78.6,9.5,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T02:00:00,16,11,72.28,0,1.8,220,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T03:00:00,16,12,77.2,0,1.8,250,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T04:00:00,16.1,12.2,77.95,0,0.5,296.8,96.5,9.5,0,,0,Overcast,cloudy
+2023-01-30T05:00:00,16,12,77.19,0,1.8,240,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T06:00:00,17,12,72.45,0,5.4,200,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T07:00:00,16.7,12.9,78.74,0,0.5,230,96.6,9.5,13,0,0,Overcast,cloudy
+2023-01-30T08:00:00,17,12,72.43,0,1.8,250,89.4,10,103,0.4,1,Partially cloudy,partly-cloudy-day
+2023-01-30T09:00:00,18,13,72.6,0,3.6,230,89.4,10,225,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-30T10:00:00,17.7,13.9,78.16,0,0,270,96.6,10,302,1.1,3,Overcast,cloudy
+2023-01-30T11:00:00,18,13,72.59,0,1.8,250,89.4,10,354,1.3,4,Partially cloudy,partly-cloudy-day
+2023-01-30T12:00:00,19,13,68.17,0,3.6,260,89.4,10,436,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-30T13:00:00,20.4,12.7,61.51,0,3.6,290,89.4,10,527,1.9,5,Partially cloudy,partly-cloudy-day
+2023-01-30T14:00:00,21,12,56.44,0,11.2,340,50.1,10,713,2.6,7,Partially cloudy,partly-cloudy-day
+2023-01-30T15:00:00,21,12,56.44,0,7.6,10,28.8,10,633,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-30T16:00:00,21.8,12.4,55.09,0,3.6,91,64.3,10,440,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-30T17:00:00,20,13,64.1,0,7.6,10,28.8,10,208,0.7,2,Partially cloudy,partly-cloudy-day
+2023-01-30T18:00:00,19,14,72.76,0,1.8,240,28.8,10,27,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-30T19:00:00,18.4,13,71.03,0,6.7,320,64.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T20:00:00,18,13,72.61,0,7.6,330,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T21:00:00,17,13,77.33,0,3.6,310,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T22:00:00,17.1,13.4,79.18,0,0,359,78.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-30T23:00:00,18,13,72.63,0,1.8,250,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T00:00:00,17,13,77.34,0,0,359,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T01:00:00,17.1,12.7,75.59,0,0.5,247.5,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T02:00:00,17,13,77.36,0,0,359,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T03:00:00,17,13,77.36,0,0,359,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T04:00:00,17.4,14.5,83.36,0,0,241.2,96.5,9.5,0,,0,Overcast,cloudy
+2023-01-31T05:00:00,17,14,82.53,0,1.8,240,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T06:00:00,17,15,88.03,0,1.8,210,89.5,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T07:00:00,17.4,14.4,82.97,0,0,267.9,89.4,9.5,26,0.1,0,Partially cloudy,partly-cloudy-day
+2023-01-31T08:00:00,19,14,72.78,0,3.6,210,89.4,8,210,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-31T09:00:00,20,13,64.1,0,1.8,290,89.3,8,434,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-31T10:00:00,20.7,13.7,63.93,0,3.6,360,89.4,17.1,592,2.1,6,Partially cloudy,partly-cloudy-day
+2023-01-31T11:00:00,22,13,56.68,0,5.4,40,89.2,10,739,2.7,7,Partially cloudy,partly-cloudy-day
+2023-01-31T12:00:00,23,13,53.35,0,7.6,360,89.2,10,803,2.9,8,Partially cloudy,partly-cloudy-day
+2023-01-31T13:00:00,23.4,14.1,55.73,0,6.7,329,89.4,17.1,860,3.1,9,Partially cloudy,partly-cloudy-day
+2023-01-31T14:00:00,23,16,64.72,0,9.4,340,89.2,10,769,2.8,8,Partially cloudy,partly-cloudy-day
+2023-01-31T15:00:00,23,16,64.74,0,13,340,89.2,10,638,2.3,6,Partially cloudy,partly-cloudy-day
+2023-01-31T16:00:00,23.7,15.5,60.06,0,3.6,90,78.6,10,443,1.6,4,Partially cloudy,partly-cloudy-day
+2023-01-31T17:00:00,22,16,68.79,0,7.6,80,50.1,10,217,0.8,2,Partially cloudy,partly-cloudy-day
+2023-01-31T18:00:00,21,17,77.9,0,0,1,89.4,10,28,0.1,0,Partially cloudy,partly-cloudy-night
+2023-01-31T19:00:00,21.4,17.1,76.28,0,0,69.1,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T20:00:00,21,17,77.93,0,3.6,100,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T21:00:00,21,16,73.15,0,1.8,160,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T22:00:00,20.7,16.6,77.22,0,1,210,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-01-31T23:00:00,20,17,82.91,0,3.6,210,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T00:00:00,20,17,82.89,0,3.6,210,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T01:00:00,19.4,17.2,87.07,0,3.6,183,78.6,9.5,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T02:00:00,19,17,88.2,0,5.4,170,50,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T03:00:00,19,17,88.2,0,3.6,180,50,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T04:00:00,19,17.7,91.87,0,0.5,190,64.3,8.9,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T05:00:00,18,17,93.88,0,0,0,25,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T06:00:00,18,17,93.89,0,0,0,28.6,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T07:00:00,18.7,17.5,93.09,0,0,216.3,64.3,15.4,23,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-01T08:00:00,21,18,83.01,0,1.8,240,28.6,6,175,0.6,2,Partially cloudy,partly-cloudy-day
+2023-02-01T09:00:00,23,18,73.48,0,1.8,310,28.6,7,381,1.4,4,Partially cloudy,partly-cloudy-day
+2023-02-01T10:00:00,24.4,18.4,69.28,0,3.6,320,80,16.6,567,2,6,Partially cloudy,partly-cloudy-day
+2023-02-01T11:00:00,26,20,69.55,0,7.6,360,28.6,8,705,2.5,7,Partially cloudy,partly-cloudy-day
+2023-02-01T12:00:00,26,18,61.42,0,9.4,120,28.6,8,831,3,8,Partially cloudy,partly-cloudy-day
+2023-02-01T13:00:00,26.7,17.4,56.57,0,8.3,137,64.3,17.1,862,3.1,9,Partially cloudy,partly-cloudy-day
+2023-02-01T14:00:00,25,19,69.37,0,11.2,110,49.9,10,788,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-01T15:00:00,25,19,69.37,0,13,90,28.6,10,644,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-01T16:00:00,25.1,18.9,68.47,0,8.9,128,64.3,17.1,449,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-01T17:00:00,24,19,73.66,0,7.6,130,89.2,10,221,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-01T18:00:00,23,19,78.24,0,5.4,140,89.3,10,29,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-01T19:00:00,23.4,19.7,80.06,0,6.7,149,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T20:00:00,23,20,83.24,0,5.4,170,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T21:00:00,23,20,83.26,0,3.6,200,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T22:00:00,23.1,20.2,84.01,0,4.1,180,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-01T23:00:00,23,20,83.26,0,3.6,210,50,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T00:00:00,23,20,83.26,0,3.6,230,50,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T01:00:00,22.4,20.4,88.5,0,0,226.3,78.6,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T02:00:00,22,20,88.45,0,0,359,28.6,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T03:00:00,22,20,88.45,0,3.6,220,28.6,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T04:00:00,22,20.7,92.44,0,0.5,220,71.4,16.3,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T05:00:00,22,21,94.06,0,3.6,180,50,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T06:00:00,22,20,88.45,0,3.6,180,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-02T07:00:00,22.1,20.8,92.37,0,0,224.9,90,10,25,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-02T08:00:00,21.7,19.1,85.17,0,4.3,202,5,24.1,210,0.8,2,Clear,clear-day
+2023-02-02T09:00:00,23,22,94.09,0,3.6,340,89.4,4,434,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-02T10:00:00,23.7,21.2,85.9,0,0.5,113.4,96.5,8.3,627,2.3,6,Overcast,cloudy
+2023-02-02T11:00:00,23,21,88.49,0,1.8,290,89.4,3,765,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-02T12:00:00,23,22,94.05,0,3.6,320,100,3,795,2.9,8,Overcast,cloudy
+2023-02-02T13:00:00,23.5,22.4,94.06,0,0.5,288,100,7.5,718,2.6,7,Overcast,cloudy
+2023-02-02T14:00:00,23,22,94.09,0,5.4,360,100,5,492,1.8,5,Overcast,cloudy
+2023-02-02T15:00:00,23,22,94.11,0,3.6,330,100,4,441,1.6,4,Overcast,cloudy
+2023-02-02T16:00:00,23.4,22.9,96.61,0,3.6,90,100,8.3,308,1.1,3,Overcast,cloudy
+2023-02-02T17:00:00,23,22,94.11,0,1.8,100,100,6,198,0.7,2,Overcast,cloudy
+2023-02-02T18:00:00,23,22,94.12,0,0,0,100,8,18,0.1,0,Overcast,cloudy
+2023-02-02T19:00:00,23.4,22.4,93.73,4.481,0.5,87.7,100,9.2,0,,0,"Rain, Overcast",rain
+2023-02-02T20:00:00,23,22,94.11,0,0,1,100,3,0,,0,Overcast,cloudy
+2023-02-02T21:00:00,23,23,99.98,0,1.8,300,100,4,0,,0,Overcast,cloudy
+2023-02-02T22:00:00,23.4,22.7,95.78,0,0,0,92.9,8.6,0,,0,Overcast,cloudy
+2023-02-02T23:00:00,23,22,94.12,0,3.6,160,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T00:00:00,23,23,100,0,1.8,230,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T01:00:00,23.4,22.7,95.78,0,0,0,89.5,8.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T02:00:00,23,22,94.12,0,1.8,230,89.5,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T03:00:00,23,23,99.98,0,0,360,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T04:00:00,23.4,22.7,95.79,0,0,0,89.5,8.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T05:00:00,23,23,100,0.1,0,0,88,5,0,,0,"Rain, Partially cloudy",rain
+2023-02-03T06:00:00,23,22,94.12,0,0,0,89.5,5,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T07:00:00,23.4,22.9,97.03,0,0,122.5,89.5,4.3,16,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-03T08:00:00,25,24,94.19,0,0,0,89.4,7,131,0.5,1,Partially cloudy,partly-cloudy-day
+2023-02-03T09:00:00,26,23,83.58,0,7.6,100,50.1,8,320,1.2,3,Partially cloudy,partly-cloudy-day
+2023-02-03T10:00:00,26.7,22.4,77.07,0,10.9,102,78.6,10,465,1.7,5,Partially cloudy,partly-cloudy-day
+2023-02-03T11:00:00,26,23,83.55,0,13,110,89.3,10,758,2.7,8,Partially cloudy,partly-cloudy-day
+2023-02-03T12:00:00,27,22,74.15,0,13,100,50,10,810,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-03T13:00:00,27.1,21.9,73.19,0,11.4,93,64.3,17.1,815,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-03T14:00:00,27,22,74.13,0,13,110,28.6,10,771,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-03T15:00:00,26,22,78.63,0,13,90,28.6,10,612,2.2,6,Partially cloudy,partly-cloudy-day
+2023-02-03T16:00:00,26.4,22,76.99,0,8.8,101,64.3,17.1,441,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-03T17:00:00,26,22,78.64,0,11.2,110,28.6,10,222,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-03T18:00:00,24,22,88.6,0,5.4,120,28.6,10,30,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-03T19:00:00,24.4,22.1,87.1,0,3.6,90,64.3,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T20:00:00,24,22,88.58,0,3.6,110,49.9,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T21:00:00,24,22,88.6,0,3.6,180,89.2,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T22:00:00,24.1,22.2,89.4,0,1,171,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-03T23:00:00,24,22,88.6,0,1.8,200,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T00:00:00,24,22,88.62,0,1.8,190,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T01:00:00,24.1,22.2,89.4,0,0.5,196.7,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T02:00:00,24,22,88.62,0,0,359,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T03:00:00,24,22,88.62,0,1.8,180,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T04:00:00,24,22.4,90.96,0,0.5,230,89.4,16.3,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T05:00:00,24,22,88.6,0,1.8,220,88,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T06:00:00,23,22,94.11,0,3.6,190,89.3,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T07:00:00,23.7,22.7,94.15,0,3.6,183,89.4,8.9,7,0,0,Partially cloudy,partly-cloudy-day
+2023-02-04T08:00:00,24,23,94.15,0,7.6,210,89.2,6,99,0.4,1,Partially cloudy,partly-cloudy-day
+2023-02-04T09:00:00,26,22,78.66,0,9.4,161,49.9,10,225,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-04T10:00:00,25.7,22.1,80.32,0,7.8,118,89.4,10,530,1.9,5,Partially cloudy,partly-cloudy-day
+2023-02-04T11:00:00,25,22,83.41,0,9.4,110,89.2,8,780,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-04T12:00:00,25,22,83.43,0,13,120,89.2,10,852,3.1,9,Partially cloudy,partly-cloudy-day
+2023-02-04T13:00:00,26.7,22.4,77.03,0,12.4,113,78.6,17.1,779,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-04T14:00:00,27,22,74.14,0,14.8,120,49.9,10,775,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-04T15:00:00,27,21,69.75,0,14.8,120,28.6,10,635,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-04T16:00:00,26.1,21,73.65,0,13.6,134,78.6,17.1,409,1.5,4,Partially cloudy,partly-cloudy-day
+2023-02-04T17:00:00,25,21,78.5,0,14.8,130,28.6,10,210,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-04T18:00:00,25,22,83.47,0,7.6,140,49.9,10,30,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-04T19:00:00,25,21.4,80.26,0,7.8,140,78.6,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T20:00:00,24,22,88.58,0,7.6,120,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T21:00:00,24,22,88.58,0,5.4,140,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T22:00:00,24.1,22.2,89.4,0,4.7,119,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-04T23:00:00,24,22,88.6,0,5.4,140,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T00:00:00,24,22,88.62,0,3.6,10,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T01:00:00,24,22.2,89.78,0,3.6,140,96.5,10,0,,0,Overcast,cloudy
+2023-02-05T02:00:00,24,22,88.62,0,5.4,170,99.8,10,0,,0,Overcast,cloudy
+2023-02-05T03:00:00,24,22,88.62,0,9.3,140,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T04:00:00,24,22.1,89.01,0,5.2,140,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T05:00:00,24,22,88.6,0,5.4,140,88,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T06:00:00,24,22,88.62,0,9.3,170,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T07:00:00,24.1,22.6,91.36,0,0,207.6,89.4,17.1,26,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-05T08:00:00,24,22,88.6,0,11.1,170,89.2,10,219,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-05T09:00:00,25,22,83.44,0,7.6,160,89.2,10,448,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-05T10:00:00,26.3,21.7,75.66,0,8.3,110,78.6,17.1,646,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-05T11:00:00,27,22,74.13,0,14.7,110,49.9,10,791,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-05T12:00:00,27,21,69.75,0,18.4,120,28.6,10,844,3,8,Partially cloudy,partly-cloudy-day
+2023-02-05T13:00:00,27.4,21,68.31,0,10.8,110,64.3,17.1,771,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-05T14:00:00,27,19,61.64,0,20.5,130,28.6,10,727,2.6,7,Partially cloudy,partly-cloudy-day
+2023-02-05T15:00:00,27,20,65.58,0,18.3,110,28.6,10,632,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-05T16:00:00,27,20.2,66.46,0,10.8,90,64.3,17.1,440,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-05T17:00:00,25,21,78.52,0,11.2,120,28.6,10,224,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-05T18:00:00,24,22,88.6,0,9.4,120,50,10,32,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-05T19:00:00,24.4,21.9,85.99,0,7.2,140,78.6,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T20:00:00,24,22,88.6,0,3.6,130,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T21:00:00,24,22,88.6,0,5.4,171,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T22:00:00,24.1,22,88.24,0,2.2,201,78.6,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-05T23:00:00,24,22,88.62,0,3.6,190,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T00:00:00,24,22,88.62,0,3.6,170,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T01:00:00,24.1,21.9,87.49,0,3.6,200,96.5,17.1,0,,0,Overcast,cloudy
+2023-02-06T02:00:00,24,22,88.62,0,3.6,170,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T03:00:00,24,22,88.63,0,5.4,130,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T04:00:00,23.7,21.7,88.61,0,1,199.6,96.5,16.6,0,,0,Overcast,cloudy
+2023-02-06T05:00:00,24,22,88.6,0,9.4,150,88,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T06:00:00,23,22,94.12,0,3.6,200,89.3,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T07:00:00,23.7,22,90.16,0,1.6,172,89.5,9.1,28,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-06T08:00:00,24,22,88.62,0,5.4,160,89.4,6,215,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-06T09:00:00,25,22,83.47,0,5.4,160,89.4,7,420,1.5,4,Partially cloudy,partly-cloudy-day
+2023-02-06T10:00:00,25.4,22,81.37,0,4.7,92,89.4,16.6,603,2.2,6,Partially cloudy,partly-cloudy-day
+2023-02-06T11:00:00,27,22,74.14,0,9.4,110,28.8,10,751,2.7,8,Partially cloudy,partly-cloudy-day
+2023-02-06T12:00:00,28,22,69.95,0,13,110,28.8,10,813,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-06T13:00:00,27.1,20.7,68.27,0,10.8,90,64.3,17.1,810,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-06T14:00:00,27,21,69.75,0,18.3,110,28.6,10,754,2.7,8,Partially cloudy,partly-cloudy-day
+2023-02-06T15:00:00,27,21,69.75,0,14.7,90,28.6,10,608,2.2,6,Partially cloudy,partly-cloudy-day
+2023-02-06T16:00:00,26.4,21.2,73.39,0,10.8,110,64.3,17.1,427,1.5,4,Partially cloudy,partly-cloudy-day
+2023-02-06T17:00:00,25,22,83.42,0,7.6,130,49.9,10,223,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-06T18:00:00,25,22,83.46,0,9.4,130,89.2,10,31,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-06T19:00:00,24.4,22.1,86.73,0,3.6,180,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T20:00:00,24,22,88.6,0,3.6,157.4,49.9,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T21:00:00,24,22,88.62,0,3.6,160.7,49.9,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T22:00:00,24.1,22,88.25,0,0,165.1,64.3,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-06T23:00:00,24,22,88.62,0,1.8,270,28.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T00:00:00,23,22,94.11,0,3.6,300,28.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T01:00:00,23.4,21.9,91.32,0,3.6,160,71.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T02:00:00,23,22,94.11,0,5.4,160,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T03:00:00,23,22,94.11,0,3.6,150,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T04:00:00,23.4,22.1,92.12,0,3.6,140,89.4,16.3,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T05:00:00,23,22,94.1,0,5.4,180,88,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T06:00:00,23,22,94.12,0,5.4,190,89.4,6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T07:00:00,23.4,22.1,92.52,0,0,173.7,89.5,16,28,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-07T08:00:00,25,22,83.49,0,7.6,170,89.3,10,221,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-07T09:00:00,26,21,74.01,0,7.5,151,50,10,451,1.6,5,Partially cloudy,partly-cloudy-day
+2023-02-07T10:00:00,26.4,22,77.01,0,3.6,50,78.6,17.1,642,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-07T11:00:00,29,22,66.02,0,9.3,191,28.6,10,791,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-07T12:00:00,29,22,66.02,0,5.4,290,28.6,10,859,3.1,9,Partially cloudy,partly-cloudy-day
+2023-02-07T13:00:00,28.4,22,68.53,0,11.4,92,64.3,17.1,871,3.1,9,Partially cloudy,partly-cloudy-day
+2023-02-07T14:00:00,28,22,69.95,0,14.7,110,28.6,10,794,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-07T15:00:00,27,22,74.17,0,16.5,110,28.6,10,650,2.3,7,Partially cloudy,partly-cloudy-day
+2023-02-07T16:00:00,25.7,22.2,81.04,0,10.9,93,89.4,17.1,459,1.7,5,Partially cloudy,partly-cloudy-day
+2023-02-07T17:00:00,25,23,88.67,0,7.6,100,89.3,10,235,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-07T18:00:00,25,22,83.46,0,11.1,120,89.3,10,34,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-07T19:00:00,25.1,23,88.31,0,0,148.9,89.5,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T20:00:00,25,23,88.7,0,5.4,140,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T21:00:00,26,23,83.6,0,7.5,139,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T22:00:00,25.4,23.2,87.97,0,6.7,109,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-07T23:00:00,25,23,88.7,0,7.6,130,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T00:00:00,25,23,88.7,0,7.6,130,89.3,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T01:00:00,24.7,23.1,90.61,0,5.8,140,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T02:00:00,25,23,88.71,0,11.1,150,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T03:00:00,25,23,88.71,0,11.1,140,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T04:00:00,24.7,22.9,89.45,0,7.3,140,89.4,16.6,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T05:00:00,24,23,94.15,0,7.5,120,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T06:00:00,24,22,88.62,0,7.5,140,89.4,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T07:00:00,24,22.7,92.55,0,10.8,140,89.4,8.9,29,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-08T08:00:00,25,23,88.7,0,11.1,150,50.1,8,223,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-08T09:00:00,27,23,78.8,0,7.5,150,50.1,8,441,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-08T10:00:00,28,23.1,74.65,0,7.2,140,78.6,17.1,626,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-08T11:00:00,28,23,74.31,0,16.5,110,28.8,10,709,2.6,7,Partially cloudy,partly-cloudy-day
+2023-02-08T12:00:00,28,23,74.32,0,22.3,110,28.6,10,802,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-08T13:00:00,27.5,22.9,76.16,0,18,110,64.3,17.1,813,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-08T14:00:00,27,22,74.14,0,20.5,110,28.6,10,782,2.8,8,Partially cloudy,partly-cloudy-day
+2023-02-08T15:00:00,27,22,74.14,0,22.3,120,28.6,10,649,2.3,6,Partially cloudy,partly-cloudy-day
+2023-02-08T16:00:00,27.1,21.7,72.57,0,13,99,64.3,17.1,446,1.6,4,Partially cloudy,partly-cloudy-day
+2023-02-08T17:00:00,26,22,78.66,0,13,120,50,10,230,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-08T18:00:00,25,22,83.46,0,14.7,140,89.3,10,34,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-08T19:00:00,25.1,22.9,87.55,0,7.8,154,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T20:00:00,25,23,88.68,0,9.4,130,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T21:00:00,25,23,88.68,0,11.1,130,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T22:00:00,25,22.9,87.94,0,8.3,101,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-08T23:00:00,25,23,88.7,0,11.1,129,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T00:00:00,24,23,94.15,0,5.4,120,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T01:00:00,24.7,22.7,88.69,0,10.8,110,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T02:00:00,24,23,94.17,0,9.3,140,89.3,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T03:00:00,24,23,94.17,0,7.5,149,89.2,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T04:00:00,24.1,22.9,92.96,0,4.7,140,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T05:00:00,24,23,94.17,0,5.4,150,89.2,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T06:00:00,24,23,94.17,0,7.5,160,89.2,7,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T07:00:00,24.1,23,93.76,0,3.6,200,89.4,16.2,30,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-09T08:00:00,25,23,88.7,0,5.4,190,87.4,10,228,0.8,2,Partially cloudy,partly-cloudy-day
+2023-02-09T09:00:00,26,23,83.55,0,11.1,160,49.9,10,457,1.6,5,Partially cloudy,partly-cloudy-day
+2023-02-09T10:00:00,27.5,22.9,76.17,0,11.1,25,78.6,17.1,619,2.2,6,Partially cloudy,partly-cloudy-day
+2023-02-09T11:00:00,28,23,74.29,0,12.9,130,49.9,10,723,2.6,7,Partially cloudy,partly-cloudy-day
+2023-02-09T12:00:00,28,22,69.93,0,16.5,110,28.6,10,838,3,8,Partially cloudy,partly-cloudy-day
+2023-02-09T13:00:00,27.7,21.9,70.47,0,14.6,116,64.3,17.1,824,3,8,Partially cloudy,partly-cloudy-day
+2023-02-09T14:00:00,28,22,69.92,0,16.6,130,28.6,10,723,2.6,7,Partially cloudy,partly-cloudy-day
+2023-02-09T15:00:00,27,22,74.13,0,18.3,110,28.6,10,574,2.1,6,Partially cloudy,partly-cloudy-day
+2023-02-09T16:00:00,27.5,21.7,71.05,0,9.9,116,64.3,17.1,388,1.4,4,Partially cloudy,partly-cloudy-day
+2023-02-09T17:00:00,26,22,78.66,0,14.7,120,28.6,10,198,0.7,2,Partially cloudy,partly-cloudy-day
+2023-02-09T18:00:00,25,22,83.46,0,7.6,130,28.6,10,30,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-09T19:00:00,25.1,22.2,84.21,0,3.6,89,71.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T20:00:00,25,22,83.47,0,5.4,140,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T21:00:00,25,23,88.68,0,7.6,140,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T22:00:00,25.1,22.7,86.81,0,3.6,139,78.6,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-09T23:00:00,25,23,88.68,0,5.4,130,50,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T00:00:00,25,23,88.68,0,7.6,130,50.1,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T01:00:00,25,23.1,89.08,0,3.6,110,78.6,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T02:00:00,25,23,88.7,0,5.4,109,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T03:00:00,24,23,94.15,0,7.5,110,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T04:00:00,24.4,22.9,91.38,0,7.8,110,89.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T05:00:00,24,22,88.62,0,5.4,131,89.4,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T06:00:00,24,22,88.62,0,3.6,140,89.4,8,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T07:00:00,24.1,22.2,89.41,0,3.6,140,89.4,16.6,28,0.1,0,Partially cloudy,partly-cloudy-day
+2023-02-10T08:00:00,25,23,88.68,0,7.6,150,89.3,8,207,0.7,2,Partially cloudy,partly-cloudy-day
+2023-02-10T09:00:00,28,22,69.96,0,11.1,150,50,10,451,1.6,5,Partially cloudy,partly-cloudy-day
+2023-02-10T10:00:00,28.7,21.5,65.09,0,3.6,160,64.3,17.1,657,2.4,7,Partially cloudy,partly-cloudy-day
+2023-02-10T11:00:00,30,21,58.62,0,7.6,170,28.6,10,809,2.9,8,Partially cloudy,partly-cloudy-day
+2023-02-10T12:00:00,29,22,65.99,0,14.7,100,28.6,10,891,3.2,9,Partially cloudy,partly-cloudy-day
+2023-02-10T13:00:00,29,21.7,64.57,0,13.6,99,64.3,17.1,895,3.2,9,Partially cloudy,partly-cloudy-day
+2023-02-10T14:00:00,28,22,69.92,0,18.3,120,28.6,10,820,3,8,Partially cloudy,partly-cloudy-day
+2023-02-10T15:00:00,28,21,65.78,0,16.5,130,28.6,10,676,2.4,7,Partially cloudy,partly-cloudy-day
+2023-02-10T16:00:00,27.8,21.5,68.35,0,6.8,110,80,17.1,476,1.7,5,Partially cloudy,partly-cloudy-day
+2023-02-10T17:00:00,26,22,78.63,0,18.3,120,28.6,10,243,0.9,2,Partially cloudy,partly-cloudy-day
+2023-02-10T18:00:00,25,22,83.46,0,12.9,130,28.6,10,37,0.1,0,Partially cloudy,partly-cloudy-night
+2023-02-10T19:00:00,25.1,22.4,84.94,0,6.7,137,64.3,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T20:00:00,25,22,83.47,0,1.8,129.7,28.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T21:00:00,25,22,83.47,0,5.4,100,28.6,10,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T22:00:00,24.7,22.7,88.68,0,3.6,110,71.4,17.1,0,,0,Partially cloudy,partly-cloudy-night
+2023-02-10T23:00:00,25,23,88.68,0,1.8,220,49.9,8,0,,0,Partially cloudy,partly-cloudy-night
